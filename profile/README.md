@@ -25,7 +25,7 @@ ProgreTech is the independent software engineering practice and public workshop 
 | [Specklet](https://github.com/progretech-llc/specklet) | A local-first planning and data workspace. |
 | [Manabi Kōbō](https://github.com/progretech-llc/ManabiKobo) | Japanese reading, learning, and developer-focused practice. |
 | [WebFlow Studio](https://github.com/progretech-llc/ProgreTech_WebFlowStudio) | Record, inspect, and replay browser workflows. |
-| [NAVI Change Analyzer](https://github.com/progretech-llc/ProgreTech-NaviaDratp) | A data-driven strategy-game recreation and preservation project. |
+| [ProgreTech Navia Dratp](https://github.com/progretech-llc/ProgreTech-NaviaDratp) | A data-driven strategy-game recreation and preservation project. |
 | [pAR3D](https://github.com/progretech-llc/pAR3D) | Experimental stereoscopic vision and 3D display tooling. |
 | [ProgreTech Seesaw](https://github.com/progretech-llc/ProgreTech-Seesaw) | Offline 3D-printing workflows and related tools. |
 
