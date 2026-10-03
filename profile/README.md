@@ -16,20 +16,20 @@ ProgreTech is the independent software engineering practice and public workshop 
 - Enterprise integration and data interfaces
 - Learning tools and digital preservation
 
-## Selected public projects
+## Selected public repositories
 
 | Project | What it does |
 | --- | --- |
 | [ProgreTech Mesh](https://github.com/progretech-llc/progretech-mesh) | Local-first monitoring and control for independently running AI agents. |
-| [CodeSeal](https://github.com/progretech-llc/CodeSealWebApp) | Source provenance, signing history, and verification workflows. |
-| [Specklet](https://github.com/progretech-llc/specklet) | A local-first planning and data workspace. |
-| [Manabi Kōbō](https://github.com/progretech-llc/ManabiKobo) | Japanese reading, learning, and developer-focused practice. |
+| [SAP Cloud Debugger](https://github.com/progretech-llc/SAP-Cloud-Debugger) | A local browser debugger for inspecting application requests and runtime behavior. |
 | [WebFlow Studio](https://github.com/progretech-llc/ProgreTech_WebFlowStudio) | Record, inspect, and replay browser workflows. |
-| [ProgreTech Navia Dratp](https://github.com/progretech-llc/ProgreTech-NaviaDratp) | A data-driven strategy-game recreation and preservation project. |
+| [Navia Dratp](https://github.com/progretech-llc/ProgreTech-NaviaDratp) | A data-driven strategy-game recreation and preservation project. |
 | [pAR3D](https://github.com/progretech-llc/pAR3D) | Experimental stereoscopic vision and 3D display tooling. |
+| [ProgreOS](https://github.com/progretech-llc/ProgreOS) | Experimental companion firmware and device integration. |
 | [ProgreTech Seesaw](https://github.com/progretech-llc/ProgreTech-Seesaw) | Offline 3D-printing workflows and related tools. |
+| [EinScan-S ScanDrive](https://github.com/progretech-llc/einscan-s-opensource-scandrive) | Experimental desktop tooling for a legacy 3D scanner. |
 
-Some work is product software; some is experimentation, education, or preservation. Public availability and project status vary by repository.
+This list highlights public source repositories. Product and project information is available on [ProgreTech.com](https://progretech.com); source visibility and release status vary by project.
 
 ## Licensing and attribution
 
